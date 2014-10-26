@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.jhchoe.aceit" >
+
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+
+    <application
+        android:name=".ACEitApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/NoActionBar" >
+
+        <!-- Main launcher activity -->
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="landscape" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- Account activity -->
+        <activity
+            android:name=".AccountActivity"
+            android:label="@string/title_activity_account"
+            android:launchMode="singleTask"
+            android:parentActivityName=".MainActivity"
+            android:screenOrientation="landscape" >
+        </activity>
+
+        <!-- Levels activity -->
+        <activity
+            android:name=".LevelActivity"
+            android:label="@string/title_activity_voice_level"
+            android:launchMode="singleTask"
+            android:parentActivityName=".AccountActivity"
+            android:screenOrientation="landscape" >
+        </activity>
+
+        <!-- Each level activities -->
+        <activity
+            android:name=".LevelOneActivity"
+            android:label="@string/title_activity_voice"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name=".LevelTwoActivity"
+            android:label="@string/title_activity_voice"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name=".LevelThreeActivity"
+            android:label="@string/title_activity_level_three"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name=".LevelFourActivity"
+            android:label="@string/title_activity_level_four"
+            android:screenOrientation="landscape" >
+        </activity>
+
+        <!-- Result dialog activity -->
+        <activity
+            android:name=".ResultsActivity"
+            android:label="@string/title_activity_results"
+            android:screenOrientation="landscape"
+            android:theme="@style/NoTitleDialog" >
+        </activity>
+
+        <!-- Statistics dialog activity -->
+        <activity
+            android:name=".StatisticsActivity"
+            android:label="@string/title_activity_statistics"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.Dialog" >
+        </activity>
+        <activity
+            android:name=".LevelThreeDrawActivity"
+            android:label="@string/title_activity_level_three_draw"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name=".LevelTwoDrawActivity"
+            android:label="@string/title_activity_level_two_draw"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name=".HelpActivity"
+            android:label="@string/title_activity_help"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name=".GameActivity"
+            android:label="@string/title_activity_game" >
+        </activity>
+    </application>
+
+</manifest>

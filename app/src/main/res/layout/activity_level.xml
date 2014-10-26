@@ -1,0 +1,319 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="${packageName}.${activityClass}" >
+
+    <ScrollView
+        android:id="@+id/scrollView"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <!-- LEVEL ONE LAYOUT -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" >
+
+                <Button
+                    android:id="@+id/level1"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="2"
+                    android:gravity="start"
+                    android:text="@string/levelOne"
+                    android:onClick="levelOne"
+                    android:textSize="72sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/white"
+                    android:background="@color/LimeGreen" />
+
+                <ImageButton
+                    android:id="@+id/level1_image"
+                    android:contentDescription="@string/content_description"
+                    android:layout_width="0dp"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="6"
+                    android:gravity="center"
+                    android:src="@drawable/ic_action_headset"
+                    android:onClick="levelOne"
+                    android:background="@color/LimeGreen" />
+
+                <ImageButton
+                    android:id="@+id/level1_star1"
+                    android:contentDescription="@string/content_description"
+                    android:layout_width="0dp"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:src="@drawable/ic_action_not_important"
+                    android:background="@color/LimeGreen"
+                    android:onClick="statistics" />
+
+                <ImageButton
+                    android:id="@+id/level1_star2"
+                    android:contentDescription="@string/content_description"
+                    android:layout_width="0dp"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:src="@drawable/ic_action_not_important"
+                    android:background="@color/LimeGreen"
+                    android:onClick="statistics" />
+
+                <ImageButton
+                    android:id="@+id/level1_star3"
+                    android:contentDescription="@string/content_description"
+                    android:layout_width="0dp"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:src="@drawable/ic_action_not_important"
+                    android:background="@color/LimeGreen"
+                    android:onClick="statistics" />
+
+            </LinearLayout>
+
+            <!-- LEVEL TWO LAYOUT -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" >
+
+                <Button
+                    android:id="@+id/level2"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="2"
+                    android:gravity="start"
+                    android:text="@string/levelTwo"
+                    android:onClick="levelTwo"
+                    android:textSize="72sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/white"
+                    android:background="@color/SkyBlue" />
+
+                <ImageButton
+                    android:id="@+id/level2_image_1"
+                    android:contentDescription="@string/content_description"
+                    android:layout_width="0dp"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="3"
+                    android:gravity="end|center_vertical"
+                    android:src="@drawable/ic_action_headset"
+                    android:onClick="levelTwo"
+                    android:background="@color/SkyBlue" />
+
+                <ImageButton
+                    android:id="@+id/level2_image_2"
+                    android:contentDescription="@string/content_description"
+                    android:layout_width="0dp"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="3"
+                    android:gravity="start|center_vertical"
+                    android:src="@drawable/ic_action_edit"
+                    android:onClick="levelTwoDraw"
+                    android:background="@color/SkyBlue" />
+
+                <ImageButton
+                    android:id="@+id/level2_star1"
+                    android:contentDescription="@string/content_description"
+                    android:layout_width="0dp"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:src="@drawable/ic_action_not_important"
+                    android:background="@color/SkyBlue"
+                    android:onClick="statistics" />
+
+                <ImageButton
+                    android:id="@+id/level2_star2"
+                    android:contentDescription="@string/content_description"
+                    android:layout_width="0dp"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:src="@drawable/ic_action_not_important"
+                    android:background="@color/SkyBlue"
+                    android:onClick="statistics" />
+
+                <ImageButton
+                    android:id="@+id/level2_star3"
+                    android:contentDescription="@string/content_description"
+                    android:layout_width="0dp"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:src="@drawable/ic_action_not_important"
+                    android:background="@color/SkyBlue"
+                    android:onClick="statistics" />
+
+            </LinearLayout>
+
+            <!-- LEVEL THREE LAYOUT -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" >
+
+                <Button
+                    android:id="@+id/level3"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="2"
+                    android:gravity="start"
+                    android:text="@string/levelThree"
+                    android:onClick="levelThree"
+                    android:textSize="72sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/white"
+                    android:background="@color/MediumPurple" />
+
+                <ImageButton
+                    android:id="@+id/level3_image_1"
+                    android:contentDescription="@string/content_description"
+                    android:layout_width="0dp"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="3"
+                    android:gravity="end|center_vertical"
+                    android:src="@drawable/ic_action_mic"
+                    android:onClick="levelThree"
+                    android:background="@color/MediumPurple" />
+
+                <ImageButton
+                    android:id="@+id/level3_image_2"
+                    android:contentDescription="@string/content_description"
+                    android:layout_width="0dp"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="3"
+                    android:gravity="start|center_vertical"
+                    android:src="@drawable/ic_action_edit"
+                    android:onClick="levelThreeDraw"
+                    android:background="@color/MediumPurple" />
+
+                <ImageButton
+                    android:id="@+id/level3_star1"
+                    android:contentDescription="@string/content_description"
+                    android:layout_width="0dp"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:src="@drawable/ic_action_not_important"
+                    android:background="@color/MediumPurple"
+                    android:onClick="statistics" />
+
+                <ImageButton
+                    android:id="@+id/level3_star2"
+                    android:contentDescription="@string/content_description"
+                    android:layout_width="0dp"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:src="@drawable/ic_action_not_important"
+                    android:background="@color/MediumPurple"
+                    android:onClick="statistics" />
+
+                <ImageButton
+                    android:id="@+id/level3_star3"
+                    android:contentDescription="@string/content_description"
+                    android:layout_width="0dp"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:src="@drawable/ic_action_not_important"
+                    android:background="@color/MediumPurple"
+                    android:onClick="statistics" />
+
+            </LinearLayout>
+
+            <!-- LEVEL FOUR LAYOUT -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" >
+
+                <Button
+                    android:id="@+id/level4"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="2"
+                    android:gravity="start"
+                    android:text="@string/levelFour"
+                    android:onClick="levelFour"
+                    android:textSize="72sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/white"
+                    android:background="@color/PaleVioletRed" />
+
+                <Button
+                    android:id="@+id/level4_image"
+                    android:contentDescription="@string/content_description"
+                    android:layout_width="0dp"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="6"
+                    android:gravity="center"
+                    android:text="@string/Aa"
+                    android:textSize="50sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/white"
+                    android:onClick="levelFour"
+                    android:background="@color/PaleVioletRed" />
+
+                <ImageButton
+                    android:id="@+id/level4_star1"
+                    android:contentDescription="@string/content_description"
+                    android:layout_width="0dp"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:src="@drawable/ic_action_not_important"
+                    android:background="@color/PaleVioletRed"
+                    android:onClick="statistics" />
+
+                <ImageButton
+                    android:id="@+id/level4_star2"
+                    android:contentDescription="@string/content_description"
+                    android:layout_width="0dp"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:src="@drawable/ic_action_not_important"
+                    android:background="@color/PaleVioletRed"
+                    android:onClick="statistics" />
+
+                <ImageButton
+                    android:id="@+id/level4_star3"
+                    android:contentDescription="@string/content_description"
+                    android:layout_width="0dp"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:src="@drawable/ic_action_not_important"
+                    android:background="@color/PaleVioletRed"
+                    android:onClick="statistics" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+    </ScrollView>
+
+    <FrameLayout android:id="@+id/progressContainer"
+        android:background="@color/white"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:clickable="true" >
+
+        <ProgressBar
+            style="@android:style/Widget.ProgressBar.Large"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center" />
+    </FrameLayout>
+
+</FrameLayout>
