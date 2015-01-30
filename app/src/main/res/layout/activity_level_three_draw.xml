@@ -23,6 +23,7 @@
                 android:layout_height="fill_parent"
                 android:gravity="center_vertical"
                 android:textSize="36sp"
+                android:textColor="@color/black"
                 android:textStyle="bold" />
 
             <ImageButton
@@ -88,6 +89,7 @@
                     android:layout_weight="5"
                     android:gravity="center"
                     android:textSize="60sp"
+                    android:textColor="@color/black"
                     android:textStyle="bold" />
 
                 <FrameLayout

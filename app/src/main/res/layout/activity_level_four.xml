@@ -19,6 +19,7 @@
             android:layout_gravity="start"
             android:gravity="center_vertical"
             android:textSize="36sp"
+            android:textColor="@color/black"
             android:textStyle="bold" />
 
         <RelativeLayout
@@ -34,6 +35,7 @@
                 android:layout_height="wrap_content"
                 android:layout_centerInParent="true"
                 android:textSize="100sp"
+                android:textColor="@color/black"
                 android:textStyle="bold" />
 
             <ImageButton

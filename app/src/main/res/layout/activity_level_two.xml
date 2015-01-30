@@ -19,6 +19,7 @@
             android:layout_gravity="start"
             android:gravity="center_vertical"
             android:textSize="36sp"
+            android:textColor="@color/black"
             android:textStyle="bold" />
 
         <LinearLayout
@@ -42,6 +43,7 @@
                     android:layout_centerInParent="true"
                     android:gravity="center"
                     android:textSize="55sp"
+                    android:textColor="@color/black"
                     android:textStyle="bold" />
 
                 <ImageButton
