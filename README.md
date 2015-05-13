@@ -13,6 +13,26 @@ ACEit! is under the copyright policy of Kalamazoo College: https://reason.kzoo.e
 
 ___
 
+The project is protected under *Creative Commons (CC) License*. More detailed parts are described below:
+
+* *Attribution*
+
+The author must be attributed as the creator of the work. Beyond that, the work can be modified, distributed, copied and otherwise used.
+
+* *Share Alike*
+
+The work can be modified, distributed and so forth, but only under the same CC license.
+
+* *Non-Commercial*
+
+The work can be modified, distributed and so on, but not for commercial purposes. The work cannot be sold or make a profit for an individual, a group, or a company.
+
+* *No Derivative Works*
+
+The modified work cannot be distributed, otherwise one can copy and distribute the licensed work. This license prohibits one from creating work based on the original.
+
+___
+
 ![alt tag](https://cloud.githubusercontent.com/assets/8836645/7611428/83ca5926-f952-11e4-8041-67324c1cca05.png)
 ![alt tag](https://cloud.githubusercontent.com/assets/8836645/7611432/89f8d390-f952-11e4-9e6f-871fe4fb43b7.png)
 
