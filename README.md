@@ -92,6 +92,8 @@ Originally, three types of images per word was used; color, black-outlined, and 
 
 Finding the right image with clear outline was a challenge.
 
+___
+
 ####Future Ideas
 
 *Engagement*
