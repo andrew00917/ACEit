@@ -34,6 +34,8 @@ ___
 ![alt tag](https://cloud.githubusercontent.com/assets/8836645/7611428/83ca5926-f952-11e4-8041-67324c1cca05.png)
 ![alt tag](https://cloud.githubusercontent.com/assets/8836645/7611432/89f8d390-f952-11e4-9e6f-871fe4fb43b7.png)
 
+___
+
 ####Introduction
 
 *Motivation*
@@ -43,6 +45,8 @@ On April 10, 2014, I attended the Jennifer Mills Lecture by 	Professor Eileen Po
 *Problem and Idea*
 
 Dr. Cutter brought up an issue that Mrs. Melanie Baker, her son’s (special education) teacher at Harper Creek Middle School had raised: there was a lack of worthy educational apps intended to teach children in early childhood how to read. To keep children motivated to play and learn, a good educational game app was needed. My passion for designing a mobile app could not have found a better cause and motivation.
+
+___
 
 ####Background
 
@@ -59,6 +63,8 @@ For the pre-alphabetic phase, most of children will learn to see the word, which
 
 For the database of words, Dolch sight words ("Dolch Sight Words.", 2007) were used, which is a list consist of 220 words and 95 common nouns put together by Edward William Dolch, PhD. in 1948 	that are proven to enhance a person’s reading skill when mastered.
 
+___
+
 ####Method
 
 *Fading Technique*
@@ -66,6 +72,8 @@ For the database of words, Dolch sight words ("Dolch Sight Words.", 2007) were u
 Fading technique is a proven technique to teach the sight words to the children who are mostly in the pre-alphabetic stage. The idea by using this technique, the goal is to provide a better learning experience for the children.
   
 ![alt tag](https://cloud.githubusercontent.com/assets/8836645/7611416/785de4cc-f952-11e4-884c-ae9484b69058.png)
+
+___
 
 ####Difficulties
 
@@ -103,6 +111,8 @@ Administrators, parents, or teachers should be able to add/remove any words into
 *Broader Target Audience*
 
 This app is also able to aid adults who are learning to read English, especially for foreigners.
+
+___
 
 ####References
 
