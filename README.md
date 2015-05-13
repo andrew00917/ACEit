@@ -1,8 +1,6 @@
 #ACEit!
 ##An Android App to Facilitate Children in Learning English
 
-___
-
 ###Created By: Jae Hyun Choe
 SIP Advisor: Dr. Pamela Cutter
 Department of Computer Science, Kalamazoo College
