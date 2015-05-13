@@ -7,6 +7,8 @@ Special Thanks To: Mrs. Melanie Baker and the Hough Foundation
 
 This project was done as in partial fulfillment of the requirements for the degree of Bachelor of Arts at Kalamazoo College.
 
+![alt tag](https://cloud.githubusercontent.com/assets/8836645/7611428/83ca5926-f952-11e4-8041-67324c1cca05.png)
+![alt tag](https://cloud.githubusercontent.com/assets/8836645/7611432/89f8d390-f952-11e4-9e6f-871fe4fb43b7.png)
 
 Introduction:
 
@@ -40,6 +42,8 @@ Method:
 
   Fading Technique - Fading technique is a proven technique to teach the sight words to the children who are mostly in the pre-alphabetic
   stage. The 	idea by using this technique, the goal is to provide a better learning experience for the children.
+  
+![alt tag](https://cloud.githubusercontent.com/assets/8836645/7611416/785de4cc-f952-11e4-884c-ae9484b69058.png)
 
 Difficulties:
 
