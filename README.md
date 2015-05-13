@@ -75,4 +75,4 @@ References:
  2 Ehri, L.C. (1995). Phases of development in learning to 	read words by sight. Journal of Research in Reading, 	18(2), 116-188.
  3 Ehri, L.C. (2005). Learning to read words: Theory, findings, and issues. Scientific Studies of Reading, 	9(2), 167-188.
  4 Gaskin, I.W., Ehri, L.C., Cress, C., O'Hara, C., & Donnelly, K. (1997). Procedures for word learning: Making discoveries about words. The Reading 	Teacher, 50(4), 312-327.
- 5 Westling, David L., and Fox, Lise. “Teaching Appropriate Academic Skills.” Teaching Students with Severe Disabilities. 2nd ed. Upper Saddle River: Merrill, 	2000. 388. Print.
+ 5 Westling, David L., and Fox, Lise. “Teaching Appropriate Academic Skills.” Teaching Students with Severe Disabilities. 2nd ed. Upper Saddle River: Merrill, 2000. 388. Print.
