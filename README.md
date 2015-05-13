@@ -7,8 +7,6 @@ Special Thanks To: Mrs. Melanie Baker and the Hough Foundation
 
 This project was done as in partial fulfillment of the requirements for the degree of Bachelor of Arts at Kalamazoo College.
 
-![Alt text](/app/src/main/res/drawable-xxhdpi/aceit_levels.png?raw=true "Four levels displayed side-by-side for a quick overview")
-![Alt text](/app/src/main/res/drawable-xxhdpi/aceit_qr.png?raw=true "QR-code for ACEit! Google Play Store listing")
 
 Introduction:
 
@@ -42,7 +40,6 @@ Method:
 
   Fading Technique - Fading technique is a proven technique to teach the sight words to the children who are mostly in the pre-alphabetic
   stage. The 	idea by using this technique, the goal is to provide a better learning experience for the children.
-  ![Alt text](/app/src/main/res/drawable-xxhdpi/fading_technique.png?raw=true "Example of Using a Fading Procedure to Teach Sight Words (Wrestling & Fox, 2000).")
 
 Difficulties:
 
