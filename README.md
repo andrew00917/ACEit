@@ -6,6 +6,7 @@ Department of Computer Science, Kalamazoo College
 Special Thanks To: Mrs. Melanie Baker and the Hough Foundation
 
 This project was done as in partial fulfillment of the requirements for the degree of Bachelor of Arts at Kalamazoo College.
+ACEit! is under the copyright policy of Kalamazoo College: https://reason.kzoo.edu/facultygrants/assets/Intellectual_Property_Policy_July_2003.pdf
 
 ![alt tag](https://cloud.githubusercontent.com/assets/8836645/7611428/83ca5926-f952-11e4-8041-67324c1cca05.png)
 ![alt tag](https://cloud.githubusercontent.com/assets/8836645/7611432/89f8d390-f952-11e4-9e6f-871fe4fb43b7.png)
