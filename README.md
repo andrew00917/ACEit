@@ -79,7 +79,7 @@ ___
 
 *Logical Error*
 
-Google speech recognition program was used for speech recognition. However, there were consistent error in recognition which eventually will lead to frustration. To engage the child to play, especially those with less clear pronounciation, arange of acceptance for an answer had to be widened.
+Google speech recognition program was used for speech recognition. However, there were consistent error in recognition which eventually will lead to frustration. To engage the child to play, especially those with less clear pronounciation, a range of acceptance for an answer had to be widened.
   * eye -> I or i
   * night -> 9
   * cow -> how
